@@ -14,6 +14,7 @@ $ jupyter notebook
 ```
 
 ![relative path 1](/Shampoo_sales_SARIMAX.jpeg?raw=true "Shampoo_sales_SARIMAX.jpeg")
+![relative path 1](/Sahmpoo_sales_components_Prophet.png?raw=true "Shampoo_sales_SARIMAX.png")
 
 
 # Using data and extending the basic idea from these sources:
