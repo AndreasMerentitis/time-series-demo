@@ -18,6 +18,7 @@ $ jupyter notebook
 
 ```bash
 # Example usage (in docker): 
+$ sudo service docker restart
 $ jupyter-repo2docker https://github.com/AndreasMerentitis/time-series-demo
 ```
 After this step copy the link that will be produced to your web browser and run the example from there
