@@ -24,7 +24,7 @@ After this step copy the link that will be produced to your web browser and run 
 
 
 ![relative path 1](/Shampoo_sales_SARIMAX.jpeg?raw=true "Shampoo_sales_SARIMAX.jpeg")
-![relative path 1](/Sahmpoo_sales_components_Prophet.png?raw=true "Shampoo_sales_SARIMAX.png")
+![relative path 1](/Sahmpoo_sales_components_Prophet.png?raw=true "Sahmpoo_sales_components_Prophet.png")
 
 
 # Using data and extending the basic idea from these sources:
