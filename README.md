@@ -1,4 +1,4 @@
-# Timeseries Demo
+# Time series demo
 
 The goal is to forecast 12 months of future samphoo sales data with SARIMAX as well as Prophet 
 and visualize the predictive intervals. We use plotly to make the visualizations easier to explore. 
