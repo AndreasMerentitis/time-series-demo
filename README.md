@@ -1,7 +1,8 @@
 # Time series demo
 
 The goal is to forecast 12 months of future samphoo sales data with SARIMAX as well as Prophet 
-and visualize the predictive intervals. We use plotly to make the visualizations easier to explore. 
+and NeuralProphet. We visualize the predictive intervals when possible. We use plotly to make 
+the visualizations easier to explore. 
 
 The dataset describes the monthly number of sales of shampoo over a 3 year period.
 The units are a sales count and there are 36 observations. The original dataset is credited 
