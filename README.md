@@ -33,6 +33,7 @@ After this step copy the link that will be produced to your web browser and run 
 * https://raw.githubusercontent.com/jbrownlee/Datasets/master/shampoo.csv
 * https://machinelearningmastery.com/tune-arima-parameters-python/
 * https://machinelearningmastery.com/grid-search-arima-hyperparameters-with-python/
+* https://facebook.github.io/prophet/
 * https://neuralprophet.com/
 * https://plot.ly/python/v3/continuous-error-bars/
 
