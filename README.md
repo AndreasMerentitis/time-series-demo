@@ -24,8 +24,10 @@ $ jupyter-repo2docker https://github.com/AndreasMerentitis/time-series-demo
 ```
 After this step copy the link that will be produced to your web browser and run the example from there
 
-
+Shampoo sales with SARIMAX:
 ![relative path 1](/Shampoo_sales_SARIMAX.jpeg?raw=true "Shampoo_sales_SARIMAX.jpeg")
+
+Shampoo sales components with Prophet:
 ![relative path 1](/Sahmpoo_sales_components_Prophet.png?raw=true "Sahmpoo_sales_components_Prophet.png")
 
 
