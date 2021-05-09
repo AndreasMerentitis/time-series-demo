@@ -30,6 +30,8 @@ Shampoo sales with SARIMAX:
 Shampoo sales components with Prophet:
 ![relative path 1](/Sahmpoo_sales_components_Prophet.png?raw=true "Sahmpoo_sales_components_Prophet.png")
 
+Shampoo sales components with NeuralProphet:
+![relative path 1](/Sahmpoo_sales_components_NeurProphet.png?raw=true "Sahmpoo_sales_components_NeurProphet.png")
 
 # Using data and extending the basic idea from these sources:
 * https://raw.githubusercontent.com/jbrownlee/Datasets/master/shampoo.csv
