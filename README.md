@@ -39,6 +39,7 @@ Shampoo sales components with NeuralProphet:
 * https://machinelearningmastery.com/grid-search-arima-hyperparameters-with-python/
 * https://facebook.github.io/prophet/
 * https://neuralprophet.com/
+* https://github.com/ourownstory/neural_prophet
 * https://plot.ly/python/v3/continuous-error-bars/
 
 
