@@ -33,7 +33,7 @@ Shampoo sales components with Prophet:
 Shampoo sales components with NeuralProphet:
 ![relative path 1](/Sahmpoo_sales_components_NeurProphet.png?raw=true "Sahmpoo_sales_components_NeurProphet.png")
 
-# Using data and extending the basic idea from these sources:
+# Using data or code and extending the basic idea from these sources:
 * https://raw.githubusercontent.com/jbrownlee/Datasets/master/shampoo.csv
 * https://machinelearningmastery.com/tune-arima-parameters-python/
 * https://machinelearningmastery.com/grid-search-arima-hyperparameters-with-python/
